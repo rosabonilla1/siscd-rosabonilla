@@ -1,0 +1,14 @@
+Incluir usuario
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Thu May 13 00:22:52 2021 +0200
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 9 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#       modified:   siscd-jsamos.txt
+#       new file:   siscd.txt
